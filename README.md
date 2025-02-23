@@ -1,16 +1,17 @@
-Tic-Tac-Toe-Game-using-C++ (OOPS)
+_Tic-Tac-Toe-Game-using-C++ (OOPS)_
 Tic-tac-toe is a game in which two players take turns in drawing either an 'X' or an ' O' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row or a column or a diagonal.
 
-OBJECTIVE:
+_OBJECTIVE:_
 This project aims to develop a Tic Tac Toe game using OOPS concept in C++. It mainly consists of developing and implementing a computer program that plays Tic Tac Toe against another player.
 In order to understand what Tic Tac Toe game is and how to play the game, below is the description.
 
-GAME DESCRIPTION:
+_GAME DESCRIPTION:_
 Tic Tac Toe is a two-player game (one of them being played by computer or human). In this game, there is a board with 3 x 3 squares.
 
 The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe game is to be one of the players to get three same symbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid. The player who first gets 3 of his/her symbols (marks) in a row - vertically, horizontally, or diagonally wins the game, and the other loses the game. The game can be played by two players.
 
-GAME RULES:
+_GAME RULES_
+
 A player can choose between two symbols with his opponent, usual game uses "X" and "O".
 
 Initially, the player gets an option to choose to play with either "X" or "O"
